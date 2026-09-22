@@ -18,4 +18,4 @@ The workflow in `.github/workflows/deploy-pages.yml` deploys the repository root
 
 In the repository settings, set **Pages > Build and deployment > Source** to **GitHub Actions**. After the first successful workflow run, the site will be available at:
 
-`https://gxrdon.github.io/andrew-gordon-website/`
+`https://gxrdon.github.io/`
